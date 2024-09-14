@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gsearv.github.io/TMR/sitemap.TMR.gz
